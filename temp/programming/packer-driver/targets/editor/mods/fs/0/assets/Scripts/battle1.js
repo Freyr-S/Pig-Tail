@@ -500,7 +500,14 @@ System.register(["cc"], function (_export, _context) {
 
             if (this.count1 == 0) {
               this.time1.string = "0";
-              this.gameover();
+
+              if (this.p1.is_turn) {
+                director.loadScene("result1");
+              }
+
+              if (this.p2.is_turn) {
+                director.loadScene("result2");
+              }
             }
           }
         }
