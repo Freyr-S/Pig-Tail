@@ -1,0 +1,366 @@
+{
+  "assets/script/NewComponent.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/script/NewComponent.js",
+    "mTimestamp": 1633447734366
+  },
+  "assets/Scripts/Playercontroller.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/Playercontroller.js",
+    "mTimestamp": 1633454311958
+  },
+  "assets/Scripts/start.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/start.js",
+    "mTimestamp": 1634867361823
+  },
+  "assets/Scripts/toLoading1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toLoading1.js",
+    "mTimestamp": 1633661892991
+  },
+  "assets/Scripts/toLoading2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toLoading2.js",
+    "mTimestamp": 1633662077579
+  },
+  "assets/Scripts/toSignIn.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toSignIn.js",
+    "mTimestamp": 1634867361962
+  },
+  "assets/Scripts/loading1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/loading1.js",
+    "mTimestamp": 1633858656724
+  },
+  "assets/Scripts/toOpeningchart.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toOpeningchart.js",
+    "mTimestamp": 1633861254366
+  },
+  "assets/Scripts/toOpeningchart1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toOpeningchart1.js",
+    "mTimestamp": 1633877495735
+  },
+  "assets/Scripts/battle.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/battle.js",
+    "mTimestamp": 1634141637140
+  },
+  "assets/Scripts/cardinit.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/cardinit.js",
+    "mTimestamp": 1634867361616
+  },
+  "assets/Scripts/toBattle2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toBattle2.js",
+    "mTimestamp": 1634867361975
+  },
+  "assets/Scripts/toBattle1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/toBattle1.js",
+    "mTimestamp": 1634867361933
+  },
+  "assets/Scripts/bb.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/bb.js",
+    "mTimestamp": 1634719058298
+  },
+  "assets/Scripts/global_variable.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/global_variable.js",
+    "mTimestamp": 1634867361661
+  },
+  "assets/Scripts/NewComponent.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/NewComponent.js",
+    "mTimestamp": 1634823651305
+  },
+  "assets/Scenes/battle-pp.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scenes/battle-pp.js",
+    "mTimestamp": 1634922838593
+  },
+  "assets/Scripts/battle-pp.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/battle-pp.js",
+    "mTimestamp": 1634923763657
+  },
+  "assets/Scripts/test.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/test.js",
+    "mTimestamp": 1634976647280
+  },
+  "quick-pack:/cce/internal/code-quality/cr.js": {
+    "imports": {},
+    "physicalLocation": "cce/internal/code-quality/cr.js",
+    "mTimestamp": 1634979324106
+  },
+  "assets/Scripts/te.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/te.js",
+    "mTimestamp": 1634982265550
+  },
+  "assets/Scripts/time1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/time1.js",
+    "mTimestamp": 1634993993436
+  },
+  "assets/Scripts/spade2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/spade2.js",
+    "mTimestamp": 1634993993480
+  },
+  "assets/Scripts/spade1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/spade1.js",
+    "mTimestamp": 1634993993501
+  },
+  "assets/Scripts/time2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/time2.js",
+    "mTimestamp": 1634993993520
+  },
+  "assets/Scripts/heart1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/heart1.js",
+    "mTimestamp": 1634994005025
+  },
+  "assets/Scripts/heart2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/heart2.js",
+    "mTimestamp": 1634994026135
+  },
+  "assets/Scripts/club1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/club1.js",
+    "mTimestamp": 1634994045815
+  },
+  "assets/Scripts/club2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/club2.js",
+    "mTimestamp": 1634994057228
+  },
+  "assets/Scripts/diamond1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/diamond1.js",
+    "mTimestamp": 1634994070803
+  },
+  "assets/Scripts/diamond2.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/diamond2.js",
+    "mTimestamp": 1634994082821
+  },
+  "assets/Scenes/ttt.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scenes/ttt.js",
+    "mTimestamp": 1635007771340
+  },
+  "quick-pack:/cce/internal/x/cc.js": {
+    "imports": {
+      "__unresolved_0": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/base"
+      },
+      "__unresolved_1": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl"
+      },
+      "__unresolved_2": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/gfx-webgl2"
+      },
+      "__unresolved_3": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/3d"
+      },
+      "__unresolved_4": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/2d"
+      },
+      "__unresolved_5": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/ui"
+      },
+      "__unresolved_6": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle"
+      },
+      "__unresolved_7": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/particle-2d"
+      },
+      "__unresolved_8": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-framework"
+      },
+      "__unresolved_9": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/physics-2d-framework"
+      },
+      "__unresolved_10": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/intersection-2d"
+      },
+      "__unresolved_11": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/primitive"
+      },
+      "__unresolved_12": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/profiler"
+      },
+      "__unresolved_13": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/audio"
+      },
+      "__unresolved_14": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/video"
+      },
+      "__unresolved_15": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/terrain"
+      },
+      "__unresolved_16": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/webview"
+      },
+      "__unresolved_17": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tween"
+      },
+      "__unresolved_18": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/tiled-map"
+      },
+      "__unresolved_19": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/spine"
+      },
+      "__unresolved_20": {
+        "external": true,
+        "url": "cce:/internal/x/cc-fu/dragon-bones"
+      }
+    },
+    "physicalLocation": "cce/internal/x/cc.js",
+    "mTimestamp": 1635014688294,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/cc"
+  },
+  "assets/Scripts/ttt.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/ttt.js",
+    "mTimestamp": 1635046720331
+  },
+  "assets/Scripts/battle1.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/battle1.js",
+    "mTimestamp": 1635083498310
+  },
+  "quick-pack:/cce/internal/x/prerequisite-imports.js": {
+    "imports": {
+      "__unresolved_0": "assets/Scripts/battle-pp.js",
+      "__unresolved_1": "assets/Scripts/battle1.js",
+      "__unresolved_3": "assets/Scripts/club2.js",
+      "__unresolved_2": "assets/Scripts/club1.js",
+      "__unresolved_5": "assets/Scripts/diamond2.js",
+      "__unresolved_4": "assets/Scripts/diamond1.js",
+      "__unresolved_6": "assets/Scripts/global_variable.js",
+      "__unresolved_10": "assets/Scripts/spade1.js",
+      "__unresolved_8": "assets/Scripts/heart2.js",
+      "__unresolved_7": "assets/Scripts/heart1.js",
+      "__unresolved_11": "assets/Scripts/spade2.js",
+      "__unresolved_12": "assets/Scripts/start.js",
+      "__unresolved_14": "assets/Scripts/test.js",
+      "__unresolved_15": "assets/Scripts/time1.js",
+      "__unresolved_13": "assets/Scripts/te.js",
+      "__unresolved_16": "assets/Scripts/time2.js",
+      "__unresolved_17": "assets/Scripts/toBattle1.js",
+      "__unresolved_19": "assets/Scripts/toSignIn.js",
+      "__unresolved_18": "assets/Scripts/toBattle2.js",
+      "__unresolved_20": "assets/Scripts/ttt.js",
+      "__unresolved_9": "assets/Scripts/return.js"
+    },
+    "physicalLocation": "cce/internal/x/prerequisite-imports.js",
+    "mTimestamp": 1635084772317,
+    "isEntry": true,
+    "exposeAs": "cce:/internal/x/prerequisite-imports"
+  },
+  "assets/Scripts/return.js": {
+    "imports": {
+      "cc": "quick-pack:/cce/internal/x/cc.js"
+    },
+    "physicalLocation": "fs/0/assets/Scripts/return.js",
+    "mTimestamp": 1635084772347
+  }
+}

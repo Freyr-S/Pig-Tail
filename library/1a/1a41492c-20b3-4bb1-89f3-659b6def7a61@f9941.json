@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "battle1",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1921,
+      "height": 888
+    },
+    "offset": {
+      "x": 0,
+      "y": 96
+    },
+    "originalSize": {
+      "width": 1921,
+      "height": 1080
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "1a41492c-20b3-4bb1-89f3-659b6def7a61@6c48a",
+    "packable": true
+  }
+}

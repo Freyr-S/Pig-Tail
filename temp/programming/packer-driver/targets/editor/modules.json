@@ -1,0 +1,1629 @@
+{
+  "cce:/internal/x/cc": {
+    "mTimestamp": 7586.193400025368,
+    "chunkId": "quick-pack:/cce/internal/x/cc.js",
+    "imports": [
+      {
+        "value": "cce:/internal/x/cc-fu/base",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 14
+          },
+          "end": {
+            "line": 1,
+            "column": 42
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 14
+          },
+          "end": {
+            "line": 2,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 3,
+            "column": 14
+          },
+          "end": {
+            "line": 3,
+            "column": 48
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/3d",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 4,
+            "column": 14
+          },
+          "end": {
+            "line": 4,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/2d",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 14
+          },
+          "end": {
+            "line": 5,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/ui",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 6,
+            "column": 14
+          },
+          "end": {
+            "line": 6,
+            "column": 40
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 7,
+            "column": 14
+          },
+          "end": {
+            "line": 7,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/particle-2d",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 8,
+            "column": 14
+          },
+          "end": {
+            "line": 8,
+            "column": 49
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-framework",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 9,
+            "column": 14
+          },
+          "end": {
+            "line": 9,
+            "column": 55
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 10,
+            "column": 14
+          },
+          "end": {
+            "line": 10,
+            "column": 58
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/intersection-2d",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 11,
+            "column": 14
+          },
+          "end": {
+            "line": 11,
+            "column": 53
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/primitive",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 12,
+            "column": 14
+          },
+          "end": {
+            "line": 12,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/profiler",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 13,
+            "column": 14
+          },
+          "end": {
+            "line": 13,
+            "column": 46
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/audio",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 14,
+            "column": 14
+          },
+          "end": {
+            "line": 14,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/video",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 15,
+            "column": 14
+          },
+          "end": {
+            "line": 15,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/terrain",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 16,
+            "column": 14
+          },
+          "end": {
+            "line": 16,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/webview",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 17,
+            "column": 14
+          },
+          "end": {
+            "line": 17,
+            "column": 45
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tween",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 18,
+            "column": 14
+          },
+          "end": {
+            "line": 18,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/tiled-map",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 19,
+            "column": 14
+          },
+          "end": {
+            "line": 19,
+            "column": 47
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/spine",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 20,
+            "column": 14
+          },
+          "end": {
+            "line": 20,
+            "column": 43
+          }
+        }
+      },
+      {
+        "value": "cce:/internal/x/cc-fu/dragon-bones",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 21,
+            "column": 14
+          },
+          "end": {
+            "line": 21,
+            "column": 50
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/base",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/gfx-webgl2",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/3d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/ui",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/particle-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/physics-2d-framework",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/intersection-2d",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/primitive",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/profiler",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/audio",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/video",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/terrain",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/webview",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tween",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/tiled-map",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/spine",
+        "isExternal": true
+      },
+      {
+        "specifierOrURL": "cce:/internal/x/cc-fu/dragon-bones",
+        "isExternal": true
+      }
+    ]
+  },
+  "cce:/internal/x/prerequisite-imports": {
+    "mTimestamp": 70105981.64060003,
+    "chunkId": "quick-pack:/cce/internal/x/prerequisite-imports.js",
+    "imports": [
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/battle-pp.ts",
+        "rewritten": "__unresolved_0",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 35
+          },
+          "end": {
+            "line": 5,
+            "column": 86
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/battle1.ts",
+        "rewritten": "__unresolved_1",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 102
+          },
+          "end": {
+            "line": 5,
+            "column": 151
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/club1.ts",
+        "rewritten": "__unresolved_2",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 167
+          },
+          "end": {
+            "line": 5,
+            "column": 214
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/club2.ts",
+        "rewritten": "__unresolved_3",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 230
+          },
+          "end": {
+            "line": 5,
+            "column": 277
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/diamond1.ts",
+        "rewritten": "__unresolved_4",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 293
+          },
+          "end": {
+            "line": 5,
+            "column": 343
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/diamond2.ts",
+        "rewritten": "__unresolved_5",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 359
+          },
+          "end": {
+            "line": 5,
+            "column": 409
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/global_variable.ts",
+        "rewritten": "__unresolved_6",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 425
+          },
+          "end": {
+            "line": 5,
+            "column": 482
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/heart1.ts",
+        "rewritten": "__unresolved_7",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 498
+          },
+          "end": {
+            "line": 5,
+            "column": 546
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/heart2.ts",
+        "rewritten": "__unresolved_8",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 562
+          },
+          "end": {
+            "line": 5,
+            "column": 610
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/return.ts",
+        "rewritten": "__unresolved_9",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 626
+          },
+          "end": {
+            "line": 5,
+            "column": 674
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/spade1.ts",
+        "rewritten": "__unresolved_10",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 690
+          },
+          "end": {
+            "line": 5,
+            "column": 738
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/spade2.ts",
+        "rewritten": "__unresolved_11",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 754
+          },
+          "end": {
+            "line": 5,
+            "column": 802
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/start.ts",
+        "rewritten": "__unresolved_12",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 818
+          },
+          "end": {
+            "line": 5,
+            "column": 865
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/te.ts",
+        "rewritten": "__unresolved_13",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 881
+          },
+          "end": {
+            "line": 5,
+            "column": 925
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/test.ts",
+        "rewritten": "__unresolved_14",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 941
+          },
+          "end": {
+            "line": 5,
+            "column": 987
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/time1.ts",
+        "rewritten": "__unresolved_15",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1003
+          },
+          "end": {
+            "line": 5,
+            "column": 1050
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/time2.ts",
+        "rewritten": "__unresolved_16",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1066
+          },
+          "end": {
+            "line": 5,
+            "column": 1113
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/toBattle1.ts",
+        "rewritten": "__unresolved_17",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1129
+          },
+          "end": {
+            "line": 5,
+            "column": 1180
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/toBattle2.ts",
+        "rewritten": "__unresolved_18",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1196
+          },
+          "end": {
+            "line": 5,
+            "column": 1247
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/toSignIn.ts",
+        "rewritten": "__unresolved_19",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1263
+          },
+          "end": {
+            "line": 5,
+            "column": 1313
+          }
+        }
+      },
+      {
+        "value": "file:///C:/NewProject/assets/Scripts/ttt.ts",
+        "rewritten": "__unresolved_20",
+        "loc": {
+          "start": {
+            "line": 5,
+            "column": 1329
+          },
+          "end": {
+            "line": 5,
+            "column": 1374
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/battle-pp.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/battle1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/club1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/club2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/diamond1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/diamond2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/global_variable.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/heart1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/heart2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/return.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/spade1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/spade2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/start.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/te.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/test.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/time1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/time2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/toBattle1.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/toBattle2.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/toSignIn.ts"
+      },
+      {
+        "isExternal": false,
+        "url": "file:///C:/NewProject/assets/Scripts/ttt.ts"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/battle1.ts": {
+    "mTimestamp": 1635083485286.9656,
+    "chunkId": "assets/Scripts/battle1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 136
+          },
+          "end": {
+            "line": 1,
+            "column": 140
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/club1.ts": {
+    "mTimestamp": 1634994036554.8416,
+    "chunkId": "assets/Scripts/club1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/club2.ts": {
+    "mTimestamp": 1634994054063.4338,
+    "chunkId": "assets/Scripts/club2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/cardinit.ts": {
+    "mTimestamp": 1634392616258.675,
+    "chunkId": "assets/Scripts/cardinit.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 65
+          },
+          "end": {
+            "line": 2,
+            "column": 69
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/diamond1.ts": {
+    "mTimestamp": 1634994065312.2349,
+    "chunkId": "assets/Scripts/diamond1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/diamond2.ts": {
+    "mTimestamp": 1634994078349.6775,
+    "chunkId": "assets/Scripts/diamond2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/global_variable.ts": {
+    "mTimestamp": 1634798624789.9211,
+    "chunkId": "assets/Scripts/global_variable.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/heart2.ts": {
+    "mTimestamp": 1634994016794.3076,
+    "chunkId": "assets/Scripts/heart2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/test.ts": {
+    "mTimestamp": 1634976625607.4307,
+    "chunkId": "assets/Scripts/test.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 199
+          },
+          "end": {
+            "line": 2,
+            "column": 203
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/heart1.ts": {
+    "mTimestamp": 1634994003050.397,
+    "chunkId": "assets/Scripts/heart1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/spade2.ts": {
+    "mTimestamp": 1634993985351.6753,
+    "chunkId": "assets/Scripts/spade2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 62
+          },
+          "end": {
+            "line": 2,
+            "column": 66
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/spade1.ts": {
+    "mTimestamp": 1634993963739.7544,
+    "chunkId": "assets/Scripts/spade1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 71
+          },
+          "end": {
+            "line": 2,
+            "column": 75
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/start.ts": {
+    "mTimestamp": 1633636686780.3506,
+    "chunkId": "assets/Scripts/start.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 54
+          },
+          "end": {
+            "line": 2,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/time1.ts": {
+    "mTimestamp": 1634993929825.881,
+    "chunkId": "assets/Scripts/time1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 70
+          },
+          "end": {
+            "line": 2,
+            "column": 74
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/time2.ts": {
+    "mTimestamp": 1634993946310.162,
+    "chunkId": "assets/Scripts/time2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 64
+          },
+          "end": {
+            "line": 2,
+            "column": 68
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/toBattle1.ts": {
+    "mTimestamp": 1634715714115.1768,
+    "chunkId": "assets/Scripts/toBattle1.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 53
+          },
+          "end": {
+            "line": 2,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/toSignIn.ts": {
+    "mTimestamp": 1633662144473.2188,
+    "chunkId": "assets/Scripts/toSignIn.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 54
+          },
+          "end": {
+            "line": 2,
+            "column": 58
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/toBattle2.ts": {
+    "mTimestamp": 1634715622576.9236,
+    "chunkId": "assets/Scripts/toBattle2.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 53
+          },
+          "end": {
+            "line": 2,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/te.ts": {
+    "mTimestamp": 1634982261564.2249,
+    "chunkId": "assets/Scripts/te.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 1,
+            "column": 106
+          },
+          "end": {
+            "line": 1,
+            "column": 110
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scenes/battle-pp.ts": {
+    "mTimestamp": 1634922838517.001,
+    "chunkId": "assets/Scenes/battle-pp.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/battle-pp.ts": {
+    "mTimestamp": 1634923761237.227,
+    "chunkId": "assets/Scripts/battle-pp.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 100
+          },
+          "end": {
+            "line": 2,
+            "column": 104
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "cce:/internal/code-quality/cr.mjs": {
+    "mTimestamp": 1634979298821,
+    "chunkId": "quick-pack:/cce/internal/code-quality/cr.js",
+    "imports": [],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": []
+  },
+  "file:///C:/NewProject/assets/Scenes/ttt.ts": {
+    "mTimestamp": 1635007771261.151,
+    "chunkId": "assets/Scenes/ttt.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 44
+          },
+          "end": {
+            "line": 2,
+            "column": 48
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/ttt.ts": {
+    "mTimestamp": 1635046667202.7131,
+    "chunkId": "assets/Scripts/ttt.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 107
+          },
+          "end": {
+            "line": 2,
+            "column": 111
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  },
+  "file:///C:/NewProject/assets/Scripts/return.ts": {
+    "mTimestamp": 1635084771042.213,
+    "chunkId": "assets/Scripts/return.js",
+    "imports": [
+      {
+        "value": "cc"
+      },
+      {
+        "value": "cc",
+        "loc": {
+          "start": {
+            "line": 2,
+            "column": 53
+          },
+          "end": {
+            "line": 2,
+            "column": 57
+          }
+        }
+      }
+    ],
+    "modLoMetadata": {
+      "type": "esm"
+    },
+    "resolvedImports": [
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      },
+      {
+        "isExternal": false,
+        "url": "cce:/internal/x/cc"
+      }
+    ]
+  }
+}

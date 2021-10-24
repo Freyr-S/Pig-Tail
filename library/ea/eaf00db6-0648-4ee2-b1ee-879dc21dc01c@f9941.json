@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红灯",
+    "atlas": "",
+    "rect": {
+      "x": 98,
+      "y": 95,
+      "width": 87,
+      "height": 93
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 283,
+      "height": 283
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "eaf00db6-0648-4ee2-b1ee-879dc21dc01c@6c48a",
+    "packable": true
+  }
+}

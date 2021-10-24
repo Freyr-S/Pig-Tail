@@ -1,0 +1,198 @@
+2021-10-24 02:44:36-log: [Package] menu@1.0.0 enable
+2021-10-24 02:44:36-log: [Package] profile@1.0.0 enable
+2021-10-24 02:44:36-log: [Package] messages@1.0.0 enable
+2021-10-24 02:44:36-log: [Package] program@1.0.0 enable
+2021-10-24 02:44:36-log: [Package] device@1.0.1 enable
+2021-10-24 02:44:36-log: [Package] ui-kit@1.0.1 enable
+2021-10-24 02:44:36-log: [Package] tester@1.0.0 enable
+2021-10-24 02:44:36-log: [Package] preferences@1.0.0 enable
+2021-10-24 02:44:36-log: Setup mods mgr.: 327.058ms
+2021-10-24 02:44:36-log: [Package] engine@1.0.5 enable
+2021-10-24 02:44:39-log: [Package] programming@1.0.0 enable
+2021-10-24 02:44:39-log: [Package] asset-db@1.0.0 enable
+2021-10-24 02:44:39-log: [Package] console@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] scene@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] project@1.0.1 enable
+2021-10-24 02:44:40-log: [Package] about@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] server@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] utils@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] assets@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] inspector@1.0.0 enable
+2021-10-24 02:44:40-log: [Package] hierarchy@1.0.0 enable
+2021-10-24 02:44:42-log: [Package] preview@1.0.1 enable
+2021-10-24 02:44:42-log: [Package] animator@1.0.0 enable
+2021-10-24 02:44:42-log: [Package] builder@1.2.9 enable
+2021-10-24 02:44:42-log: [Package] node-library@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] shortcuts@1.0.1 enable
+2021-10-24 02:44:43-log: [Package] package-asset@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] reference-image@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] channel-upload-tools@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] runtime-dev-tools@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] alipay-mini-game@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] android@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] baidu-mini-game@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] bytedance-mini-game@1.0.1 enable
+2021-10-24 02:44:43-log: [Package] huawei-agc@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] ios@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] ios-app-clip@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] mac@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] native@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] ohos@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] web-desktop@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] web-mobile@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] wechatgame@1.0.1 enable
+2021-10-24 02:44:43-log: [Package] windows@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] xiaomi-quick-game@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] cocos-play@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] huawei-quick-game@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] link-sure@1.0.0 enable
+2021-10-24 02:44:43-log: [Package] oppo-mini-game@1.0.0 enable
+2021-10-24 02:44:44-log: [Package] qtt@1.0.0 enable
+2021-10-24 02:44:44-log: [Package] vivo-mini-game@1.0.0 enable
+2021-10-24 02:44:44-log: [Package] cocos-service@3.0.1 enable
+2021-10-24 02:44:44-log: [Package] importer@1.0.0 enable
+2021-10-24 02:44:44-log: [Package] extension@3.0.9 enable
+2021-10-24 02:44:45-log: [Package] im-plugin@3.0.6 enable
+2021-10-24 02:44:45-log: [Package] lightmap@1.0.3 enable
+2021-10-24 02:44:48-warn: Browserslist: caniuse-lite is outdated. Please run:
+npx browserslist@latest --update-db
+
+Why you should do it regularly:
+https://github.com/browserslist/browserslist#browsers-data-updating
+2021-10-24 02:44:48-log: [Scene] begin init
+2021-10-24 02:44:48-log: [Scene] require engine end
+2021-10-24 02:44:48-log: [Scene] Serialize end
+2021-10-24 02:44:48-log: [Scene] configureStartup end
+2021-10-24 02:44:48-info: [Scene] WebGL2 device initialized.
+2021-10-24 02:44:48-log: [Scene] Cocos Creator v3.3.1
+2021-10-24 02:44:48-info: [Scene] Forward render pipeline initialized.
+2021-10-24 02:44:49-log: [Scene] openEngine end
+2021-10-24 02:44:49-log: [Scene] configureEngine end
+2021-10-24 11:27:30-log: [vscode-workflow]: Chrome debug setting has been updated to C:\NewProject\.vscode\launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2021-10-24 11:28:21-log: [vscode-workflow]: Chrome debug setting has been updated to C:\NewProject\.vscode\launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2021-10-24 11:29:16-log: [vscode-workflow]: Chrome debug setting has been updated to C:\NewProject\.vscode\launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2021-10-24 11:38:49-log: [vscode-workflow]: Chrome debug setting has been updated to C:\NewProject\.vscode\launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2021-10-24 11:38:54-log: [vscode-workflow]: Chrome debug setting has been updated to C:\NewProject\.vscode\launch.json, please install Debugger for Chrome VS Code extension to debug your project.
+2021-10-24 12:27:39-error: [preview-error]Uncaught TypeError: Cannot read property 'on' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 12:27:40-error: [preview-error]Uncaught TypeError: Cannot read property 'removeFromParent' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 12:37:39-error: [preview-error]Uncaught TypeError: Cannot read property 'on' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:32:59-error: [preview-error]Uncaught TypeError: Cannot read property 'removeChild' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:32:59-error: [preview-error]Uncaught TypeError: Cannot read property 'removeChild' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:52:13-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:52:13-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:55:07-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:55:07-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:55:41-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:55:41-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:55:41-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:57:16-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:57:16-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:57:16-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:57:16-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:58:47-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:58:48-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:58:48-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 13:58:48-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 14:03:59-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 14:06:14-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 14:06:14-error: [preview-error]Uncaught TypeError: Cannot read property 'spaden' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 14:06:14-error: [preview-error]Uncaught TypeError: Cannot read property 'diamondn' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 18:19:23-error: [preview-error]Uncaught TypeError: Cannot read property 'uuid' of undefined in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2021-10-24 18:20:18-error: [preview-error]Uncaught TypeError: Cannot read property 'uuid' of undefined in http://localhost:7456/scripting/engine/bin/.cache/dev/preview/bundled/index.js
+2021-10-24 19:23:39-error: [preview-error]Uncaught TypeError: Cannot read property 'removeFromParent' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:31:05-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:31:05-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:31:06-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:31:06-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:31:06-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 19:32:33-log: [Scene] Cannot read property 'getComponent' of null
+2021-10-24 19:32:33-error: Message response error: Cannot read property 'getComponent' of null
+2021-10-24 20:01:06-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 20:01:06-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 20:28:57-error: [Scene] Cannot read property 'filter' of null
+2021-10-24 20:51:34-error: 无法加载模块 file:///C:/NewProject/assets/Scripts/battle1.ts ：SyntaxError: unknown: Unexpected token, expected "(" (1226:5)
+
+  1224 |      update (deltaTime: number) {
+  1225 |          if
+> 1226 |      }
+       |      ^
+  1227 | }
+  1228 |
+  1229 | /**.
+2021-10-24 20:51:34-error: 无法加载模块 file:///C:/NewProject/assets/Scripts/battle1.ts ：SyntaxError: unknown: Unexpected token, expected "(" (1226:5)
+
+  1224 |      update (deltaTime: number) {
+  1225 |          if
+> 1226 |      }
+       |      ^
+  1227 | }
+  1228 |
+  1229 | /**.
+2021-10-24 20:51:34-warn: [Scene] Missing class: ed063AG9uNOkYkdII0SlLIb
+2021-10-24 20:51:34-warn: [Scene] Missing class: ed063AG9uNOkYkdII0SlLIb
+2021-10-24 20:51:34-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas_battle1" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:51:34-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:51:34-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas_battle1" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:51:34-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:57:58-error: 无法加载模块 file:///C:/NewProject/assets/Scripts/battle1.ts ：SyntaxError: unknown: Unexpected token, expected "(" (1226:5)
+
+  1224 |      update (deltaTime: number) {
+  1225 |          if
+> 1226 |      }
+       |      ^
+  1227 | }
+  1228 |
+  1229 | /**.
+2021-10-24 20:57:58-error: 无法加载模块 file:///C:/NewProject/assets/Scripts/battle1.ts ：SyntaxError: unknown: Unexpected token, expected "(" (1226:5)
+
+  1224 |      update (deltaTime: number) {
+  1225 |          if
+> 1226 |      }
+       |      ^
+  1227 | }
+  1228 |
+  1229 | /**.
+2021-10-24 20:57:58-warn: [Scene] Missing class: ed063AG9uNOkYkdII0SlLIb
+2021-10-24 20:57:58-warn: [Scene] Missing class: ed063AG9uNOkYkdII0SlLIb
+2021-10-24 20:57:58-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas_battle1" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:57:58-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:57:58-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas_battle1" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 20:57:58-error: [Scene] Script "ed063AG9uNOkYkdII0SlLIb" attached to "Canvas" is missing or invalid. Detailed information:
+Script UUID: "ed063006-f6e3-4e91-891d-208d1294b21b"
+Class ID: "ed063AG9uNOkYkdII0SlLIb"
+
+2021-10-24 21:15:13-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 21:15:14-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 21:15:14-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 21:15:15-error: [preview-error]Uncaught TypeError: Cannot read property 'name' of undefined in http://localhost:7456/scripting/x/mods/fs/0/assets/Scripts/battle1.js
+2021-10-24 21:57:29-error: [Scene] Cannot read property 'filter' of null
+2021-10-24 22:06:55-warn: [Scene] Missing class: d40431iGB9E5InMd5jjpa5a
+2021-10-24 22:06:55-error: [Scene] Script "d40431iGB9E5InMd5jjpa5a" attached to "New Node" is missing or invalid. Detailed information:
+Script UUID: "d4043d62-181f-44e4-89cc-7798e3a5ae5a"
+Class ID: "d40431iGB9E5InMd5jjpa5a"
+
+2021-10-24 22:06:55-error: [Scene] Script "d40431iGB9E5InMd5jjpa5a" attached to "New Node" is missing or invalid. Detailed information:
+Script UUID: "d4043d62-181f-44e4-89cc-7798e3a5ae5a"
+Class ID: "d40431iGB9E5InMd5jjpa5a"
+

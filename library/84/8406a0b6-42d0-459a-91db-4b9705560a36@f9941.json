@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "ship2_l",
+    "atlas": "",
+    "rect": {
+      "x": 326,
+      "y": 580,
+      "width": 2221,
+      "height": 281
+    },
+    "offset": {
+      "x": -1563.5,
+      "y": -277.5
+    },
+    "originalSize": {
+      "width": 6000,
+      "height": 886
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "8406a0b6-42d0-459a-91db-4b9705560a36@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "框2-主页",
+    "atlas": "",
+    "rect": {
+      "x": 168,
+      "y": 28,
+      "width": 480,
+      "height": 169
+    },
+    "offset": {
+      "x": -111.5,
+      "y": 7.5
+    },
+    "originalSize": {
+      "width": 1039,
+      "height": 240
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "57795d94-a5a9-4824-a177-18782658dd7e@6c48a",
+    "packable": true
+  }
+}

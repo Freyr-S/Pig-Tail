@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开场4-人机",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 780,
+      "height": 360
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 780,
+      "height": 360
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "d80af07a-3a57-43b6-bb04-3e8363caaa81@6c48a",
+    "packable": true
+  }
+}

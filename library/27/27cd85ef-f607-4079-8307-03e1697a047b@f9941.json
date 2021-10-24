@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "加载-船2",
+    "atlas": "",
+    "rect": {
+      "x": 608,
+      "y": 546,
+      "width": 356,
+      "height": 310
+    },
+    "offset": {
+      "x": 0.5,
+      "y": -258
+    },
+    "originalSize": {
+      "width": 1571,
+      "height": 886
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "27cd85ef-f607-4079-8307-03e1697a047b@6c48a",
+    "packable": true
+  }
+}

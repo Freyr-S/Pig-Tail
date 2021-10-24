@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红心k",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 320,
+      "height": 484
+    },
+    "offset": {
+      "x": 0,
+      "y": 0
+    },
+    "originalSize": {
+      "width": 320,
+      "height": 484
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "9137381c-e65b-4f02-9ebb-38ebad27a920@6c48a",
+    "packable": true
+  }
+}

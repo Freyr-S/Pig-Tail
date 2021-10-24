@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始button",
+    "atlas": "",
+    "rect": {
+      "x": 665,
+      "y": 169,
+      "width": 800,
+      "height": 505
+    },
+    "offset": {
+      "x": 0.5,
+      "y": 178.5
+    },
+    "originalSize": {
+      "width": 2129,
+      "height": 1200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "dc86c649-dde8-461b-9a59-b74e3f0f1f8d@6c48a",
+    "packable": true
+  }
+}

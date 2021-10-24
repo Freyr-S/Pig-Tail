@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "红心",
+    "atlas": "",
+    "rect": {
+      "x": 1355,
+      "y": 1354,
+      "width": 151,
+      "height": 126
+    },
+    "offset": {
+      "x": 13,
+      "y": 0.5
+    },
+    "originalSize": {
+      "width": 2835,
+      "height": 2835
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "09bf8b3f-1699-4ad5-a83d-cd743baf40a7@6c48a",
+    "packable": true
+  }
+}

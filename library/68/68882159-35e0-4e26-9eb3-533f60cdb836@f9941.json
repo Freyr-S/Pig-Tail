@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "对战bg",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1921,
+      "height": 888
+    },
+    "offset": {
+      "x": 0,
+      "y": 96
+    },
+    "originalSize": {
+      "width": 1921,
+      "height": 1080
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "68882159-35e0-4e26-9eb3-533f60cdb836@6c48a",
+    "packable": true
+  }
+}

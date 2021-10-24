@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始button_min",
+    "atlas": "",
+    "rect": {
+      "x": 665,
+      "y": 191,
+      "width": 762,
+      "height": 483
+    },
+    "offset": {
+      "x": -18.5,
+      "y": 167.5
+    },
+    "originalSize": {
+      "width": 2129,
+      "height": 1200
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "560d6432-9b89-405a-8e73-2c69e320e4a3@6c48a",
+    "packable": true
+  }
+}

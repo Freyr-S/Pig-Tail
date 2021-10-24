@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "题目2",
+    "atlas": "",
+    "rect": {
+      "x": 70,
+      "y": 27,
+      "width": 231,
+      "height": 120
+    },
+    "offset": {
+      "x": 0,
+      "y": -0.5
+    },
+    "originalSize": {
+      "width": 371,
+      "height": 173
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "5ecc1188-31cf-4348-883e-e8bc6ad35bd7@6c48a",
+    "packable": true
+  }
+}

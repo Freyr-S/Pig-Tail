@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "开始2",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 631,
+      "height": 290
+    },
+    "offset": {
+      "x": -621,
+      "y": 99
+    },
+    "originalSize": {
+      "width": 1873,
+      "height": 488
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "e176cf2d-16d6-4b88-b9d3-fab2a03071c8@6c48a",
+    "packable": true
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "黑桃",
+    "atlas": "",
+    "rect": {
+      "x": 1353,
+      "y": 1255,
+      "width": 127,
+      "height": 132
+    },
+    "offset": {
+      "x": -1,
+      "y": 96.5
+    },
+    "originalSize": {
+      "width": 2835,
+      "height": 2835
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "4d0b707a-ed8c-4cd0-a7a5-48451f9d522c@6c48a",
+    "packable": true
+  }
+}

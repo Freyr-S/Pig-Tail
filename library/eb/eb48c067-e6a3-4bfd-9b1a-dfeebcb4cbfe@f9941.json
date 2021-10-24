@@ -1,0 +1,30 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "对战素材000 (2)",
+    "atlas": "",
+    "rect": {
+      "x": 0,
+      "y": 0,
+      "width": 1921,
+      "height": 888
+    },
+    "offset": {
+      "x": 0,
+      "y": 96
+    },
+    "originalSize": {
+      "width": 1921,
+      "height": 1080
+    },
+    "rotated": false,
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ],
+    "texture": "eb48c067-e6a3-4bfd-9b1a-dfeebcb4cbfe@6c48a",
+    "packable": true
+  }
+}
