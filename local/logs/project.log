@@ -196,3 +196,14 @@ Class ID: "d40431iGB9E5InMd5jjpa5a"
 Script UUID: "d4043d62-181f-44e4-89cc-7798e3a5ae5a"
 Class ID: "d40431iGB9E5InMd5jjpa5a"
 
+2021-10-24 23:36:42-warn: [Scene] Missing class: d40431iGB9E5InMd5jjpa5a
+2021-10-24 23:36:42-error: [Scene] Script "d40431iGB9E5InMd5jjpa5a" attached to "New Node" in scene "battle3" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scenes/battle3"
+Script UUID: "d4043d62-181f-44e4-89cc-7798e3a5ae5a"
+Class ID: "d40431iGB9E5InMd5jjpa5a"
+
+2021-10-24 23:36:43-error: [Scene] Script "d40431iGB9E5InMd5jjpa5a" attached to "New Node" in scene "battle3" is missing or invalid. Detailed information:
+Asset url: "db://assets/Scenes/battle3"
+Script UUID: "d4043d62-181f-44e4-89cc-7798e3a5ae5a"
+Class ID: "d40431iGB9E5InMd5jjpa5a"
+

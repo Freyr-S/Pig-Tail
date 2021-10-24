@@ -30,7 +30,7 @@
     "time": 1633620809293.0178
   },
   "C:\\NewProject\\assets\\resources": {
-    "time": 1635084404626.2207,
+    "time": 1635089794656.037,
     "uuid": "293700cc-2b55-4600-8161-a1ef8d87d2e7",
     "missing": false
   },
@@ -83,7 +83,7 @@
     "time": 1633451963356.0244
   },
   "C:\\NewProject\\assets\\Scenes\\Cover.scene": {
-    "time": 1633853042782.4033,
+    "time": 1635085580550.11,
     "uuid": "e2126b6a-bdfc-4d41-9512-c301e76374ac",
     "missing": false
   },
@@ -1467,7 +1467,7 @@
     "time": 1634977506116.1475
   },
   "C:\\NewProject\\assets\\Scenes\\result3.scene": {
-    "time": 1635084604759.46,
+    "time": 1635089839028.01,
     "uuid": "b0f092bd-e381-4c8c-b52c-c5fd26040605",
     "missing": false
   },
@@ -1549,6 +1549,14 @@
   "C:\\NewProject\\assets\\Scripts\\return.ts": {
     "time": 1635084771042.213,
     "uuid": "5460ddb1-66fb-42fe-802b-9a09e3564834",
+    "missing": false
+  },
+  "C:\\NewProject\\assets\\resources\\re33.png.meta": {
+    "time": 1635089830571.1904
+  },
+  "C:\\NewProject\\assets\\resources\\re33.png": {
+    "time": 1635089720123.9875,
+    "uuid": "2b77b9e2-3470-4685-8ba4-ff61a84ecee2",
     "missing": false
   }
 }
