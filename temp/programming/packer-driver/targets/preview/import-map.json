@@ -97,6 +97,12 @@
     "./mods/fs/0/assets/Scenes/ttt.js": {
       "cc": "./mods/cce/internal/x/cc.js"
     },
+    "./mods/fs/0/assets/Scripts/ttt.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
+    "./mods/fs/0/assets/Scripts/return.js": {
+      "cc": "./mods/cce/internal/x/cc.js"
+    },
     "./mods/cce/internal/x/cc.js": {
       "__unresolved_0": "cce:/internal/x/cc-fu/base",
       "__unresolved_1": "cce:/internal/x/cc-fu/gfx-webgl",
@@ -123,33 +129,27 @@
       "__unresolved_22": "cce:/internal/x/cc-fu/spine",
       "__unresolved_23": "cce:/internal/x/cc-fu/dragon-bones"
     },
-    "./mods/fs/0/assets/Scripts/ttt.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
-    },
-    "./mods/fs/0/assets/Scripts/return.js": {
-      "cc": "./mods/cce/internal/x/cc.js"
-    },
     "./mods/cce/internal/x/prerequisite-imports.js": {
       "__unresolved_0": "./mods/fs/0/assets/Scripts/battle-pp.js",
       "__unresolved_2": "./mods/fs/0/assets/Scripts/club1.js",
       "__unresolved_3": "./mods/fs/0/assets/Scripts/club2.js",
       "__unresolved_4": "./mods/fs/0/assets/Scripts/diamond1.js",
-      "__unresolved_7": "./mods/fs/0/assets/Scripts/heart1.js",
       "__unresolved_5": "./mods/fs/0/assets/Scripts/diamond2.js",
       "__unresolved_6": "./mods/fs/0/assets/Scripts/global_variable.js",
+      "__unresolved_7": "./mods/fs/0/assets/Scripts/heart1.js",
       "__unresolved_8": "./mods/fs/0/assets/Scripts/heart2.js",
-      "__unresolved_11": "./mods/fs/0/assets/Scripts/spade2.js",
-      "__unresolved_10": "./mods/fs/0/assets/Scripts/spade1.js",
       "__unresolved_9": "./mods/fs/0/assets/Scripts/return.js",
+      "__unresolved_10": "./mods/fs/0/assets/Scripts/spade1.js",
+      "__unresolved_11": "./mods/fs/0/assets/Scripts/spade2.js",
       "__unresolved_12": "./mods/fs/0/assets/Scripts/start.js",
       "__unresolved_13": "./mods/fs/0/assets/Scripts/te.js",
-      "__unresolved_15": "./mods/fs/0/assets/Scripts/time1.js",
       "__unresolved_14": "./mods/fs/0/assets/Scripts/test.js",
       "__unresolved_16": "./mods/fs/0/assets/Scripts/time2.js",
+      "__unresolved_15": "./mods/fs/0/assets/Scripts/time1.js",
       "__unresolved_17": "./mods/fs/0/assets/Scripts/toBattle1.js",
-      "__unresolved_20": "./mods/fs/0/assets/Scripts/ttt.js",
       "__unresolved_18": "./mods/fs/0/assets/Scripts/toBattle2.js",
       "__unresolved_19": "./mods/fs/0/assets/Scripts/toSignIn.js",
+      "__unresolved_20": "./mods/fs/0/assets/Scripts/ttt.js",
       "__unresolved_1": "./mods/fs/0/assets/Scripts/battle1.js"
     },
     "./mods/fs/0/assets/Scripts/battle1.js": {

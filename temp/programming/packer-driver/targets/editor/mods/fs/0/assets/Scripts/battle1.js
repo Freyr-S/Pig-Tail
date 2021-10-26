@@ -522,7 +522,15 @@ System.register(["cc"], function (_export, _context) {
 
             if (this.count2 == 0) {
               this.time2.string = "0";
-              this.gameover();
+              this.time1.string = "0";
+
+              if (this.p1.is_turn) {
+                director.loadScene("result1");
+              }
+
+              if (this.p2.is_turn) {
+                director.loadScene("result2");
+              }
             }
           }
         } //判断出的牌是否和放置组顶部花色相同

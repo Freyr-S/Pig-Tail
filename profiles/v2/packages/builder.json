@@ -1,6 +1,52 @@
 {
   "__version__": "1.2.9",
   "log": {
-    "level": 3
+    "level": 4
+  },
+  "common": {
+    "name": "PigTail",
+    "startScene": "e2126b6a-bdfc-4d41-9512-c301e76374ac",
+    "scenes": [
+      {
+        "url": "db://assets/Scenes/battle1.scene",
+        "uuid": "6f2a5e41-325e-42ce-8921-8c2a7580a882",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/battle2.scene",
+        "uuid": "786273ca-99d2-43ff-89d9-1bf354224259",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/battle3.scene",
+        "uuid": "93783f0f-2dd2-4ca2-8ffb-e93cd630462d",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/choice.scene",
+        "uuid": "ace09968-c976-4b48-867f-3794e7ec8115",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/Cover.scene",
+        "uuid": "e2126b6a-bdfc-4d41-9512-c301e76374ac",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/result1.scene",
+        "uuid": "f484b8ad-a9a1-4438-b050-045a91bc5138",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/result2.scene",
+        "uuid": "845095b1-e9e7-4d1d-8518-348d2ccb688f",
+        "inBundle": false
+      },
+      {
+        "url": "db://assets/Scenes/result3.scene",
+        "uuid": "b0f092bd-e381-4c8c-b52c-c5fd26040605",
+        "inBundle": false
+      }
+    ]
   }
 }

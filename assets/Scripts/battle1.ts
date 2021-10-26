@@ -288,7 +288,14 @@ export class Battle1 extends Component {
         //倒计时结束还没出牌，游戏定胜负
         if(this.count2==0){
             this.time2.string="0";
-            this.gameover();
+            this.time1.string="0";
+            if(this.p1.is_turn)
+            {
+              director.loadScene("result1");
+            }
+            if(this.p2.is_turn){
+              director.loadScene("result2");
+            }
         }
     }
     }

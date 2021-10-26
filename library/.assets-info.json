@@ -30,7 +30,7 @@
     "time": 1633620809293.0178
   },
   "C:\\NewProject\\assets\\resources": {
-    "time": 1635089794656.037,
+    "time": 1635252939226.0154,
     "uuid": "293700cc-2b55-4600-8161-a1ef8d87d2e7",
     "missing": false
   },
@@ -187,7 +187,7 @@
     "time": 1633635118474.4807
   },
   "C:\\NewProject\\assets\\Scenes\\battle1.scene": {
-    "time": 1635084908417.705,
+    "time": 1635094142705.139,
     "uuid": "6f2a5e41-325e-42ce-8921-8c2a7580a882",
     "missing": false
   },
@@ -491,7 +491,7 @@
     "time": 1634719068273.5095
   },
   "C:\\NewProject\\assets\\Scripts\\battle1.ts": {
-    "time": 1635092604385.439,
+    "time": 1635253021292.7896,
     "uuid": "ed063006-f6e3-4e91-891d-208d1294b21b",
     "missing": false
   },
@@ -1467,7 +1467,7 @@
     "time": 1634977506116.1475
   },
   "C:\\NewProject\\assets\\Scenes\\result3.scene": {
-    "time": 1635092610855.1978,
+    "time": 1635252961566.5781,
     "uuid": "b0f092bd-e381-4c8c-b52c-c5fd26040605",
     "missing": false
   },
@@ -1557,6 +1557,14 @@
   "C:\\NewProject\\assets\\resources\\re33.png": {
     "time": 1635089720123.9875,
     "uuid": "2b77b9e2-3470-4685-8ba4-ff61a84ecee2",
+    "missing": false
+  },
+  "C:\\NewProject\\assets\\resources\\res3.png.meta": {
+    "time": 1635252946469.8206
+  },
+  "C:\\NewProject\\assets\\resources\\res3.png": {
+    "time": 1635252913720.8936,
+    "uuid": "d4c5fda7-4a4d-493d-9af6-c6b90a5f3546",
     "missing": false
   }
 }
